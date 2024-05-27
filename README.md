@@ -1,16 +1,18 @@
-## Hi there 👋
+Compilações, aqui é o Lucas Camarguinho🤙
 
-<!--
-**S4n0zyx/S4n0zyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curiosidades e Características Sobre Mim:
+
+- 🔭 Estudante do Ensino Médio
+- 🌱 Falo Inglês Básico
+- 👯 Busco conhecimento em Tecnologia
+- 🤔 Sou compreensível 
+- 💬 Gosto de Cultura Japonesa
+- 📫 Já furei o de uma Scania em 2010
+- 😄 Já trabalhei numa papelaria e adquiri experiência e traumas
+- ⚡ Sou conservador 🇧🇷
+- ✉️ Contate-me pelo: lullumello2012@gmail.com
+
+
+![](https://media1.tenor.com/m/TmbNLu_okcUAAAAC/grey-matter-ben10.gif)
